@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Through this blog, i want to share my journey into Software Engineering.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My first ever code was written in `C` on my first class of Basic Algorithm and Programming. The code was written using `Turbo C++` Compiler and it was the origin for all my dreams ever since.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+```c
+#include <stdio.h>
+int main()
+{
+   printf("Hello, World!");
+   return 0;
+}
+```
